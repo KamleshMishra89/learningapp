@@ -1,0 +1,7 @@
+D:\learning\azure learning\sample projects\az204\1\az204-learning1\bin\Publish\az204-learning1.exe
+D:\learning\azure learning\sample projects\az204\1\az204-learning1\bin\Publish\appsettings.Development.json
+D:\learning\azure learning\sample projects\az204\1\az204-learning1\bin\Publish\appsettings.json
+D:\learning\azure learning\sample projects\az204\1\az204-learning1\bin\Publish\az204-learning1.dll
+D:\learning\azure learning\sample projects\az204\1\az204-learning1\bin\Publish\az204-learning1.deps.json
+D:\learning\azure learning\sample projects\az204\1\az204-learning1\bin\Publish\az204-learning1.runtimeconfig.json
+D:\learning\azure learning\sample projects\az204\1\az204-learning1\bin\Publish\az204-learning1.pdb
